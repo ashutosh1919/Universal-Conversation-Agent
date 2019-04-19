@@ -7,13 +7,13 @@ I have tried to merge both probabilistic (RNN model) and rule based (AIML) appro
 
 RNN model consists following parameters.
 
-//Image
+![Model Parameters](https://github.com/ashutosh1919/Universal-Conversation-Agent/blob/master/parameters.PNG)
 
 The Complete Flow Diagram is shown Below.
 
-// Image
+![Flow Diagram](https://github.com/ashutosh1919/Universal-Conversation-Agent/blob/master/flow.PNG)
 
 I have deployed my Chatbot on Facebook Messanger, Telegram, Custom Android App, Custom Website.
 The screenshot of custome android app is attached below.
 
-//Image
+![Custom Android App](https://github.com/ashutosh1919/Universal-Conversation-Agent/blob/master/screenshot.jpg)
